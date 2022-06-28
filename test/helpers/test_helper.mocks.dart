@@ -9,7 +9,7 @@ import 'dart:typed_data' as _i11;
 import 'package:dartz/dartz.dart' as _i2;
 import 'package:flutter_weather_app_sample/data/datasources/remote_data_source.dart'
     as _i9;
-import 'package:flutter_weather_app_sample/data/failure.dart' as _i7;
+import 'package:flutter_weather_app_sample/common/failure.dart' as _i7;
 import 'package:flutter_weather_app_sample/data/models/weather_model.dart'
     as _i3;
 import 'package:flutter_weather_app_sample/domain/entities/weather.dart' as _i8;

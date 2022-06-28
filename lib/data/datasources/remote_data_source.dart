@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:flutter_weather_app_sample/data/constants.dart';
-import 'package:flutter_weather_app_sample/data/exception.dart';
+import 'package:flutter_weather_app_sample/common/constants.dart';
+import 'package:flutter_weather_app_sample/common/exception.dart';
 import 'package:flutter_weather_app_sample/data/models/weather_model.dart';
 import 'package:http/http.dart' as http;
 

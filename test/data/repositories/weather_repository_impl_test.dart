@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_weather_app_sample/data/exception.dart';
-import 'package:flutter_weather_app_sample/data/failure.dart';
+import 'package:flutter_weather_app_sample/common/exception.dart';
+import 'package:flutter_weather_app_sample/common/failure.dart';
 import 'package:flutter_weather_app_sample/data/models/weather_model.dart';
 import 'package:flutter_weather_app_sample/data/repositories/weather_repository_impl.dart';
 import 'package:flutter_weather_app_sample/domain/entities/weather.dart';

@@ -1,7 +1,7 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_weather_app_sample/data/failure.dart';
+import 'package:flutter_weather_app_sample/common/failure.dart';
 import 'package:flutter_weather_app_sample/domain/entities/weather.dart';
 import 'package:flutter_weather_app_sample/domain/usecases/get_current_weather.dart';
 import 'package:flutter_weather_app_sample/presentation/bloc/weather_bloc.dart';

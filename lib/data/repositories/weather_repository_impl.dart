@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:flutter_weather_app_sample/data/datasources/remote_data_source.dart';
-import 'package:flutter_weather_app_sample/data/exception.dart';
+import 'package:flutter_weather_app_sample/common/exception.dart';
 import 'package:flutter_weather_app_sample/domain/entities/weather.dart';
-import 'package:flutter_weather_app_sample/data/failure.dart';
+import 'package:flutter_weather_app_sample/common/failure.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_weather_app_sample/domain/repositories/weather_repository.dart';
 

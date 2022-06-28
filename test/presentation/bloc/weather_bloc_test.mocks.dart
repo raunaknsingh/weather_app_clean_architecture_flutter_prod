@@ -5,7 +5,7 @@
 import 'dart:async' as _i5;
 
 import 'package:dartz/dartz.dart' as _i3;
-import 'package:flutter_weather_app_sample/data/failure.dart' as _i6;
+import 'package:flutter_weather_app_sample/common/failure.dart' as _i6;
 import 'package:flutter_weather_app_sample/domain/entities/weather.dart' as _i7;
 import 'package:flutter_weather_app_sample/domain/repositories/weather_repository.dart'
     as _i2;

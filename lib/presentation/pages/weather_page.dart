@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_weather_app_sample/data/constants.dart';
+import 'package:flutter_weather_app_sample/common/constants.dart';
 import 'package:flutter_weather_app_sample/presentation/bloc/weather_bloc.dart';
 import 'package:flutter_weather_app_sample/presentation/bloc/weather_event.dart';
 import 'package:flutter_weather_app_sample/presentation/bloc/weather_state.dart';
